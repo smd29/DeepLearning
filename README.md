@@ -5,5 +5,6 @@ Different Case Studies on Deep Learning
   
   3. CNN
 
-        3.1[Optimize a CNN model using keras tuner](https://github.com/smd29/DeepLearning/blob/main/CNN/optimizeCNNmodel.ipynb)
-        3.2[Create a CNN model using TransferLearning using VGG 16](https://github.com/smd29/DeepLearning/blob/main/CNN/facial_recog_vgg16.ipynb) 
+        3.1 [Optimize a CNN model using keras tuner](https://github.com/smd29/DeepLearning/blob/main/CNN/optimizeCNNmodel.ipynb)
+     
+        3.2 [Create a CNN model using TransferLearning using VGG 16](https://github.com/smd29/DeepLearning/blob/main/CNN/facial_recog_vgg16.ipynb) 
