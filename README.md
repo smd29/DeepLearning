@@ -13,4 +13,4 @@ Different Case Studies on Deep Learning
 
        3.1 [One hot encoding and word embedding using keras](https://github.com/smd29/DeepLearning/blob/main/RNN/word_embedding.ipynb)
      
-       3.2 [Fake news classification] (https://github.com/smd29/DeepLearning/blob/main/RNN/word_embedding.ipynb)
+       3.2 [Fake news classification](https://github.com/smd29/DeepLearning/blob/main/RNN/word_embedding.ipynb)
