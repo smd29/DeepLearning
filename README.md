@@ -17,4 +17,4 @@ Different Case Studies on Deep Learning
 
        3.3 [Stock market prediction](https://github.com/smd29/DeepLearning/blob/main/RNN/stock_market_prediction.ipynb)
 
-       3.4 [Time series prediction] (https://github.com/smd29/DeepLearning/blob/main/RNN/TimeSeriesForecasting.ipynb)
+       3.4 [Time series prediction](https://github.com/smd29/DeepLearning/blob/main/RNN/TimeSeriesForecasting.ipynb)
